@@ -1,2 +1,2 @@
 # github-training
-This is a study propose repository
+This is a study propouse repository
